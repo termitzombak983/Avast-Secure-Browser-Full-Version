@@ -242,4 +242,4 @@ This repository serves as the official landing page for Avast Secure Browser. Th
 **Get the most recent version of Avast Secure Browser today!**
 
 ---
-**Last updated:** 2026-09-14 00:43:39 UTC
+**Last updated:** 2026-09-14 05:47:37 UTC
